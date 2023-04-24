@@ -1,7 +1,13 @@
-# HƯỚNG DẪN
+## HƯỚNG DẪN TẠO CƠ SỞ DỮ LIỆU ĐỂ THỰC HÀNH
 
-* 1. Click chuột trái vào file northwind_mdf.zip
+### Vui lòng KHÔNG nhấn phải chuột, chọn SAVE LINK AS
 
-* 2. Click vào chữ "Download" ở bên phải màn hình.
+### Vui lòng thực hiện theo các bước sau đây
 
-* 3. Thực hiện theo hướng dẫn trong video.
+* Bước 1: Click chuột trái vào file northwind_mdf.zip
+
+* Bước 2: Click vào chữ "Download" ở bên phải màn hình.
+
+* Click vào chữ "Download" ở bên phải màn hình.
+
+* Thực hiện theo hướng dẫn trong video.
