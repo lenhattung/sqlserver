@@ -1,8 +1,8 @@
-### Vui lòng KHÔNG nhấn phải chuột, và KHÔNG chọn SAVE LINK AS
+### Vui lòng KHÔNG nhấn phải chuột, và KHÔNG chọn SAVE LINK AS như trong video hướng dẫn
 
 ### Vui lòng thực hiện theo các bước sau đây:
 
-* Bước 1: Click chuột trái vào file northwind_mdf.zip.
+* Bước 1: Click chuột trái vào file northwind_mdf.zip (hoặc file mà bạn cần download).
 
 * Bước 2: Click vào chữ "Download" ở bên phải màn hình.
 
