@@ -1,5 +1,3 @@
-## HƯỚNG DẪN TẠO CƠ SỞ DỮ LIỆU ĐỂ THỰC HÀNH
-
 ### Vui lòng KHÔNG nhấn phải chuột, và KHÔNG chọn SAVE LINK AS
 
 ### Vui lòng thực hiện theo các bước sau đây:
