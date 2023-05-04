@@ -13,3 +13,14 @@ SELECT [CategoryID], SUM([UnitsInStock]) AS [TotalUnitsInStock]
 FROM [dbo].[Products]
 GROUP BY [CategoryID];
 
+-- Hãy cho biết giá vận chuyển thấp nhất và lớn nhất 
+-- của các đơn hàng theo từng thành phố và quốc gia khác nhau.
+SELECT [ShipCountry], [ShipCity], 
+		MIN([Freight]) AS [MinFreight],
+		MAX([Freight]) AS [MaxFreight]
+FROM [dbo].[Orders]
+GROUP BY [ShipCountry], [ShipCity]
+ORDER BY [ShipCountry] ASC, [ShipCity] ASC;
+
+
+
